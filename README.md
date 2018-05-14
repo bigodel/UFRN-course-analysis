@@ -9,7 +9,7 @@
 
 ### 1. Introduction ###
 
-The Open Data Portal of the Federal University of Rio Grande do Norte - UFRN (URL: http://dados.ufrn.br/group/ensino) is a tool which main objective is to make available, to the whole community, data and public information of the Institution.
+The [Open Data Portal of the Federal University of Rio Grande do Norte - UFRN](http://dados.ufrn.br/group/ensino "Dados Abertos UFRN") is a tool which main objective is to make available, to the whole community, data and public information of the Institution.
 
 In this notebook, we accessed data from the students of the university with the goal to analyze the quantity of canceled registrations between 2009 and 2016.
 
