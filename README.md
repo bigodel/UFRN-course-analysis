@@ -629,7 +629,7 @@ plt.show()
 ```
 
 
-![png](res/img/_27_0.png)
+![png](res/img/output_27_0.png)
 
 
 ### 7. Cancelled students of some units ##
@@ -930,7 +930,7 @@ plt.show()
 ```
 
 
-![png](res/img/_40_0.png)
+![png](res/img/output_40_0.png)
 
 
 #### 7.3. Humanities unit ###
@@ -1207,7 +1207,7 @@ plt.show()
 ```
 
 
-![png](res/img/_50_0.png)
+![png](res/img/output_50_0.png)
 
 
 #### 7.4. Exact and Earth Sciences unit ###
@@ -1474,7 +1474,7 @@ plt.show()
 ```
 
 
-![png](res/img/_60_0.png)
+![png](res/img/output_60_0.png)
 
 
 ### 8. Cancelled students on IT ##
@@ -1618,7 +1618,7 @@ imd.head()
 
 
 
-####  8.1. Tabel with the amount of cancelled students on IT between 2013 and 2016  ####
+####  8.1. Table with the amount of cancelled students on IT between 2013 and 2016  ####
 
 Then, we create a pivot table to store all the cancelled students.
 
@@ -1702,7 +1702,7 @@ plt.show()
 ```
 
 
-![png](res/img/_70_0.png)
+![png](res/img/output_70_0.png)
 
 
 ### 9. Comparing Charts ##
@@ -1725,7 +1725,7 @@ plt.show()
 ```
 
 
-![png](res/img/_72_0.png)
+![png](res/img/output_72_0.png)
 
 
 Then we create a table with the total amount of non-cancelled students in each year.
@@ -1755,7 +1755,7 @@ plt.show()
 ```
 
 
-![png](res/img/_76_0.png)
+![png](res/img/output_76_0.png)
 
 
 ### 10. Each unit's chart
@@ -1788,61 +1788,61 @@ for i in range(0,15):
 ```
 
 
-![png](res/img/_79_0.png)
+![png](res/img/output_79_0.png)
 
 
 
-![png](res/img/_79_1.png)
+![png](res/img/output_79_1.png)
 
 
 
-![png](res/img/_79_2.png)
+![png](res/img/output_79_2.png)
 
 
 
-![png](res/img/_79_3.png)
+![png](res/img/output_79_3.png)
 
 
 
-![png](res/img/_79_4.png)
+![png](res/img/output_79_4.png)
 
 
 
-![png](res/img/_79_5.png)
+![png](res/img/output_79_5.png)
 
 
 
-![png](res/img/_79_6.png)
+![png](res/img/output_79_6.png)
 
 
 
-![png](res/img/_79_7.png)
+![png](res/img/output_79_7.png)
 
 
 
-![png](res/img/_79_8.png)
+![png](res/img/output_79_8.png)
 
 
 
-![png](res/img/_79_9.png)
+![png](res/img/output_79_9.png)
 
 
 
-![png](res/img/_79_10.png)
+![png](res/img/output_79_10.png)
 
 
 
-![png](res/img/_79_11.png)
+![png](res/img/output_79_11.png)
 
 
 
-![png](res/img/_79_12.png)
+![png](res/img/output_79_12.png)
 
 
 
-![png](res/img/_79_13.png)
+![png](res/img/output_79_13.png)
 
 
 
-![png](res/img/_79_14.png)
+![png](res/img/output_79_14.png)
 
