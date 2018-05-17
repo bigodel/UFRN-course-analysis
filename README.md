@@ -30,7 +30,6 @@ The libraries used were:
 1. [`numpy`](http://numpy.org "numpy.org")
 2. [`pandas`](https://pandas.pydata.org "pandas.pydata.org")
 3. [`matplotlib`](https://matplotlib.org "matplotlib.org")
-4. [`seaborn`](https://seaborn.pydata.org/index.html "seborn.pydata.org")
 
 [1]: https://jupyter.org/ "Jupyter"
 
@@ -64,5 +63,4 @@ To understand the project you can also watch a video available on [this link](ht
 2. <http://numpy.org>
 3. <https://pandas.pydata.org>
 4. <https://matplotlib.org>
-5. <https://seaborn.pydata.org/index.html>
-6. <https://jupyter.org/>
+5. <https://jupyter.org/>
