@@ -2,8 +2,9 @@
 
 ## Students: ##
 
-20170000600 - Gabriel Igor Queiroz Costa <br> 20170060090 - João Pedro de Amorim
-Paula <br> 20170063851 - Vitor Henrique Coelho Bezerra
+20170000600 - Gabriel Igor Queiroz Costa - `gabriel.igorq@gmail.com` <br>
+20170060090 - João Pedro de Amorim Paula - `jpedrodeamorim@gmail.com` <br>
+20170063851 - Vitor Henrique Coelho Bezerra - `vitorhenrique908@gmail.com`
 
 ## 1. Introduction ##
 
