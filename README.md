@@ -54,6 +54,10 @@ To make it all happen we had the following steps:
 7. Generate a line graph for each of the study areas
 8. Generate a graph comparing all of the study areas' result
 
+## 5. Youtube Video ##
+
+To understand the project you can also watch a video available on [this link](https://youtu.be/jIeqf81bPvM). 
+
 ### References ###
 
 1. <http://dados.ufrn.br/group/ensino>
